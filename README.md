@@ -25,7 +25,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 # 🚀 Dan's Learning Journey
 
 ## 📊 Progress
-```
+
 + HTML/CSS | in Progress
 - BASIC CSS with CAFE MENU | 20%
 ---------------------------------
