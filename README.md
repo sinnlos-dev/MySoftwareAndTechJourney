@@ -30,6 +30,10 @@ Tech and software development enthusiast from Germany, currently learning web de
 ### ⚡ Coming Next
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Learn CSS Colors by Building a Set of Colored Markers** ⏳
 
+---
+
+hellöü
+
 
 
 
