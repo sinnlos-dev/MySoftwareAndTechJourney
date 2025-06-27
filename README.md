@@ -23,11 +23,6 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 # 🚀 Dan's Learning Journey
 
-[![Days](https://img.shields.io/badge/Days-15-brightgreen?style=flat-square)](.)
-[![Hours](https://img.shields.io/badge/Hours-42h-blue?style=flat-square)](.)
-[![Streak](https://img.shields.io/badge/Streak-🔥%2012-orange?style=flat-square)](.)
-[![Focus](https://img.shields.io/badge/Focus-JavaScript-yellow?style=flat-square)](.)
-
 ## 📊 Progress
 ```
 HTML/CSS        ████████████████████ 100%
@@ -36,5 +31,5 @@ React           ░░░░░░░░░░░░░░░░░░░░   0
 Portfolio       ░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
-**🎯 Goal:** Frontend Developer | **📈 Next:** DOM Manipulation
+**🎯 Goal:** Frontend Developer 
 
