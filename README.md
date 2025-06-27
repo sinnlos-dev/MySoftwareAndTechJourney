@@ -17,12 +17,11 @@ Tech and software development enthusiast from Germany, currently learning web de
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 # 🚀 Dan's Learning Journey
 
-[![Days](https://img.shields.io/badge/Days-15-brightgreen?style=flat-square)](.)
-[![Hours](https://img.shields.io/badge/Hours-42h-blue?style=flat-square)](.)
+[![Days](https://img.shields.io/badge/Days-2-brightgreen?style=flat-square)](.)
 [![Streak](https://img.shields.io/badge/Streak-🔥%2012-orange?style=flat-square)](.)
 [![Focus](https://img.shields.io/badge/Focus-JavaScript-yellow?style=flat-square)](.)
 
@@ -37,12 +36,6 @@ Tech and software development enthusiast from Germany, currently learning web de
 ### ⚡ Coming Next
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Learn CSS Colors by Building a Set of Colored Markers** ⏳
 
----
 
-### 🚀 Future Learning Path
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) **React Basics**
-- ![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat&logo=web&logoColor=white) **Portfolio Projects**
-
-**🎯 Goal:** Frontend Developer
 
 
