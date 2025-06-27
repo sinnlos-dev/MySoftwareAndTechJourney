@@ -33,4 +33,4 @@ Tech and software development enthusiast from Germany, currently learning web de
 ---
 
 ###📰 DAY 01 - 26th June 2025
-At day one of the documentation of my Road to Frontend Software Developer Journey I startet the first freeCodeCamp Responsive Web Design Course called: Learn HTML by Building a Cat Photo App and did around 50% of it and that was what i did on th first day of my journey. 
+#### At day one of the documentation of my Road to Frontend Software Developer Journey I startet the first freeCodeCamp Responsive Web Design Course called: Learn HTML by Building a Cat Photo App and did around 50% of it and that was what i did on th first day of my journey. 
