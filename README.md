@@ -11,7 +11,8 @@ Tech and software development enthusiast from Germany, currently learning web de
 ## 📊 Current Progress
 - ✅ Responsive Web Design (in progress)
 - ⏳ JavaScript Algorithms and Data Structures (upcoming)
-- 🎯 Goal: First portfolio project by end of 2025
+- 🎯 Goal 2025: First portfolio project by end of 2025
+- 🎯 Goal: FRONTEND DEVELOPER
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,11 +26,10 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 ## 📊 Progress
 ```
-HTML/CSS        ████████████████████ 100%
-JavaScript      ████████░░░░░░░░░░░░  40%
-React           ░░░░░░░░░░░░░░░░░░░░   0%
-Portfolio       ░░░░░░░░░░░░░░░░░░░░   0%
++ HTML/CSS | in Progress
+- BASIC CSS with CAFE MENU | 20%
+
++ JavaScript | NEXT
 ```
 
-**🎯 Goal:** Frontend Developer 
 
