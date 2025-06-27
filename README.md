@@ -32,33 +32,5 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 ---
 
-# 🚀 Dan's Learning Journey
-
-> **Frontend Developer in Training** | Started June 2025
-
-[![Days](https://img.shields.io/badge/Days-15-brightgreen?style=flat-square)](.)
-[![Hours](https://img.shields.io/badge/Hours-42h-blue?style=flat-square)](.)
-[![Streak](https://img.shields.io/badge/Streak-🔥%2012-orange?style=flat-square)](.)
-
-## 📊 Progress
-
-### 🌐 HTML/CSS | In Progress
-1. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **Cat Photo App** ✅ **DONE**
-2. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Cafe Menu** 🔄 **20% - Learning Flexbox**
-
-### ⚡ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Coming Next
-
----
-
-## 🔗 Links
-- 📚 **[Daily Learning Log](./learning-log.md)** - Detailed documentation
-- 💻 **[Projects](./projects/)** - Live demos & code
-- 🎓 **[freeCodeCamp Profile](https://freecodecamp.org/your-profile)**
-
----
-
-*Last updated: 2025-07-03 • Currently learning: CSS Flexbox*
-
-
-
-
+## 📰 DAY 01 - 26th June 2025
+### At day one of the documentation of my Road to Frontend Software Developer Journey I startet the first freeCodeCamp Responsive Web Design Course called: Learn HTML by Building a Cat Photo App and did around 50% of it and that was what i did on th first day of my journey. 
