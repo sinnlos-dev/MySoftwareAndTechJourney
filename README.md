@@ -26,7 +26,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 ## 📊 Progress
 
-+ HTML/CSS | in Progress
+* HTML/CSS | in Progress
 - HTML with CAT PHOTO APP | 100% DONE
 - BASIC CSS with CAFE MENU | 20%
 ---------------------------------
