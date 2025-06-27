@@ -30,9 +30,9 @@ Tech and software development enthusiast from Germany, currently learning web de
 ## 📊 Progress
 
 ### 🌐 HTML/CSS | In Progress
-1. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **Cat Photo App** `████████████████████ 100%` ✅
-2. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Cafe Menu** `████░░░░░░░░░░░░░░░░ 20%` 🔄
-3. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS Box Model** `░░░░░░░░░░░░░░░░░░░░ 0%` ⏳
+1. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **Cat Photo App** `█ 100%` ✅
+2. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Cafe Menu** ` █ 20%` 🔄
+3. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS Box Model** `█ 0%` ⏳
 
 ---
 
