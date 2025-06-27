@@ -1,6 +1,3 @@
-# freeCodeCampJourney
-This is my documentation of my freeCodeCamp.org Journey
-
 # 👋 Hi, I'm Dan!
 
 ## 🚀 About Me
