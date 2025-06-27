@@ -26,7 +26,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 ### 🌐 HTML/CSS | In Progress
 1. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **Learn HTML by Building a Cat Photo App** `█ 100%` ✅
 2. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Learn Basic CSS by Building a Cafe Menu** ` █ 20%` 🔄
----
+
 ### ⚡ Coming Next
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Learn CSS Colors by Building a Set of Colored Markers** ⏳
 
