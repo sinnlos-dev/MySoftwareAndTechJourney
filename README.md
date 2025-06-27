@@ -36,7 +36,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 ---
 
-### ⚡ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Coming Next
+### ⚡ Coming Next
 - Variables & Data Types ⏳
 - Functions & Scope ⏳  
 - DOM Manipulation ⏳
@@ -47,6 +47,6 @@ Tech and software development enthusiast from Germany, currently learning web de
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) **React Basics**
 - ![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat&logo=web&logoColor=white) **Portfolio Projects**
 
-**🎯 Goal:** Frontend Developer | **📈 Next:** Complete Cafe Menu Project
+**🎯 Goal:** Frontend Developer
 
 
