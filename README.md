@@ -19,7 +19,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=radical)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinn1os-dev&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](dein-linkedin)
