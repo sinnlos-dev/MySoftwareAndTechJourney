@@ -17,9 +17,8 @@ Tech and software development enthusiast from Germany, currently learning web de
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
 
-# 🚀 Dan's Learning Journey
 # 🚀 Dan's Learning Journey
 
 [![Days](https://img.shields.io/badge/Days-15-brightgreen?style=flat-square)](.)
@@ -30,16 +29,13 @@ Tech and software development enthusiast from Germany, currently learning web de
 ## 📊 Progress
 
 ### 🌐 HTML/CSS | In Progress
-1. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **Cat Photo App** `█ 100%` ✅
-2. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Cafe Menu** ` █ 20%` 🔄
-3. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS Box Model** `█ 0%` ⏳
+1. ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **Learn HTML by Building a Cat Photo App** `█ 100%` ✅
+2. ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Learn Basic CSS by Building a Cafe Menu** ` █ 20%` 🔄
 
 ---
 
 ### ⚡ Coming Next
-- Variables & Data Types ⏳
-- Functions & Scope ⏳  
-- DOM Manipulation ⏳
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Learn CSS Colors by Building a Set of Colored Markers** ⏳
 
 ---
 
