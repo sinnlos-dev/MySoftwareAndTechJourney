@@ -28,7 +28,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 ```
 + HTML/CSS | in Progress
 - BASIC CSS with CAFE MENU | 20%
-
+---------------------------------
 + JavaScript | NEXT
 ```
 
