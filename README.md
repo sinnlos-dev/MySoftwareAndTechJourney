@@ -34,3 +34,6 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 ### 📰 DAY 01 - 26th June 2025
 #### At day one of the documentation of my Road to Frontend Software Developer Journey I startet the first freeCodeCamp Responsive Web Design Course called: Learn HTML by Building a Cat Photo App and did around 50% of it and that was what i did on th first day of my journey. 
+
+### 📰 DAY 02 - 27th June 2025
+#### At day 2 of the documentation I resumed into the Cat Photo App Course and finished the course. At this point I understood the basics of HTML and started the second Course called: Learn Basics by Building a Cafe Menu and I made it to about 20% of the course. After that I wanted to document all of what I do so I made THIS GitHub Repository to document all of what I do troughout my journey and that was all that I did this day.
