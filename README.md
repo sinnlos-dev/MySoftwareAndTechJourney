@@ -8,10 +8,9 @@ Tech and software development enthusiast from Germany, currently learning web de
 - **Tools:** freeCodeCamp Website Kit, Git & GitHub
 - **Course:** freeCodeCamp curriculum
 
-## 📊 Overview
-- ✅ Responsive Web Design (in progress)
-- 🎯 Goal 2025: First portfolio project by end of 2025
-- 🎯 Goal: Frontend Developer
+## 🎯 Overview
+- **Goal 2025:** First portfolio project by end of 2025
+- **Goal:** Frontend Developer
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -20,8 +19,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 # 🚀 Dan's Learning Journey
 
-[![Days](https://img.shields.io/badge/Days-2-brightgreen?style=flat-square)](.)
-[![Streak](https://img.shields.io/badge/Streak-🔥%202-orange?style=flat-square)](.)
+### 🔥 Streak = 2 Days
 
 ## 📊 Progress
 
