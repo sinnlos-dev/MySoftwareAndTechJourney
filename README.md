@@ -22,8 +22,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 # 🚀 Dan's Learning Journey
 
 [![Days](https://img.shields.io/badge/Days-2-brightgreen?style=flat-square)](.)
-[![Streak](https://img.shields.io/badge/Streak-🔥%2012-orange?style=flat-square)](.)
-[![Focus](https://img.shields.io/badge/Focus-JavaScript-yellow?style=flat-square)](.)
+[![Streak](https://img.shields.io/badge/Streak-🔥%202-orange?style=flat-square)](.)
 
 ## 📊 Progress
 
