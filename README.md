@@ -19,7 +19,7 @@ Tech and software development enthusiast from Germany, currently learning web de
 
 # 🚀 Dan's Learning Journey
 
-### 🔥 Streak = 2 Days
+### 🔥 Days since Start = 3 Days
 
 ## 📊 Progress
 
